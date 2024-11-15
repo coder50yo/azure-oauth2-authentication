@@ -27,7 +27,7 @@ To run this project, ensure you have the following:
 
    ```bash
    git clone https://github.com/coder50yo/azure-oauth2-authentication.git
-   cd copilot-python-api
+   cd azure-oauth2-authentication
    ```
 
 2. Create a virtual environment:
